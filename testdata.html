@@ -14,7 +14,10 @@
   var jsonloc = 'Waiyanmaing/cappstore/main/mobileapplication.json';
 
   $.getJSON(rawbase + jsonloc, function(data) {
-    console.log(data);
+    data.application.map(function(v){
+      console.log(v);
+    })
+
   });
 </script>
 
