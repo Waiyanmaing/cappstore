@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+  var rawbase = 'https://raw.githubusercontent.com/';
+  var jsonloc = 'Waiyanmaing/cappstore/main/mobileapplication.json';
+
+  $.getJSON(rawbase + jsonloc, function(data) {
+    console.log(data);
+  });
+</script>
+
+</html>
