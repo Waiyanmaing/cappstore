@@ -1,22 +1,14 @@
 {
    "application":[
       {
-         "appname":"Pascal",
-         "version":"third",
-         "rating":"third",
-         "author":"test_dev"
-      },
-      {
-         "appname":"Pascal2",
-         "version":"third",
-         "rating":"third",
-         "author":"test_dev"
-      },
-      {
-         "appname":"Pascal3",
-         "version":"third",
-         "rating":"third",
-         "author":"test_dev"
+         "id":"1",
+         "applogo":"https://i.git99.com/upload/android/icon/7/2/3/6cd8e670dd16081b33bc11d5713de67a.jpg",
+         "appname":"Clash of Clans",
+         "version":"13.576.33",
+         "rating":"4",
+         "appauthor":"Android Debug",
+         "description": "Clash of Clans Mod is a private server Mod APK, we will take your game experience to another level! Enjoy our emulated servers with unlimited gems, unique mods and much more! Clash of Clans Mod will give you the most fun coc gaming experience. You will start with a normal base, and will make it according to your needs.You can feel how it would be to have a maxed base, with town hall level 12 and the strongest troops and defences of the game.",
+         "downloadlink": "http://hs.100modapk.com/apk_2018/mad/khb/ekm/HappyMod-2-6-1.apk"
       }
    ]
 }
