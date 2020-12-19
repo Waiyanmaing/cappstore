@@ -1,16 +1,22 @@
 {
-   "eBooks":[
+   "application":[
       {
-         "language":"Pascal",
-         "edition":"third"
+         "appname":"Pascal",
+         "version":"third",
+         "rating":"third",
+         "author":"test_dev"
       },
       {
-         "language":"Python",
-         "edition":"four"
+         "appname":"Pascal2",
+         "version":"third",
+         "rating":"third",
+         "author":"test_dev"
       },
       {
-         "language":"SQL",
-         "edition":"second"
+         "appname":"Pascal3",
+         "version":"third",
+         "rating":"third",
+         "author":"test_dev""
       }
    ]
 }
