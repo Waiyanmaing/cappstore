@@ -1,0 +1,24 @@
+{
+   "books":[
+      {
+         "id":"1",
+         "logo":"https://www.mmbookdownload.com/img/cover/COB11547.jpg",
+         "bookname":"Yatkha Waddi",
+         "author":"Tri Set Kha",
+         "date":"09-Dec-2020",
+         "size" : "7.63 MB",
+         "type" : "novel",
+         "downloadlink": "https://www.mmbookdownload.com/download-39569.html"
+      },
+      {
+        "id":"1",
+        "logo":"https://www.mmbookdownload.com/img/cover/COB11037.jpg",
+        "bookname":" Heart Story",
+        "author":"View",
+        "date":"03-Mar-2020",
+        "size" : "30.82 MB",
+        "type" : "cartoon",
+        "downloadlink": "https://www.mmbookdownload.com/download-39063.html"
+      }
+   ]
+}
