@@ -19,10 +19,16 @@
          "livelink": "https://s2.radio.co/s969e6c4b7/listen"
       },
       {
-         "id":"4",
-         "logo":"https://i1.sndcdn.com/avatars-000275190644-6wa8jt-t500x500.jpg",
-         "channelname":"Teen Radio",
-         "livelink": "https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-1f717f03a450a2b3e96058a2266cbc92_aac/master.m3u8"
+         "id":"5",
+         "logo":"https://radio.js-cambodia.com/rfa.png",
+         "channelname":"RFA",
+         "livelink": "https://streamer1.rfaweb.org/archive/BUR/BUR-2020-1031-1330.mp3"
+      },
+      {
+         "id":"6",
+         "logo":"https://radio.js-cambodia.com/bbc-news.png",
+         "channelname":"BBC",
+         "livelink": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08x01zl.mp3"
       }
    ]
 }
