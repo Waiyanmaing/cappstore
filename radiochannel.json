@@ -1,0 +1,28 @@
+{
+   "radios":[
+      {
+         "id":"1",
+         "logo":"https://i.ibb.co/jbQm7gp/mandalayfm2.jpg",
+         "channelname":"Mandalay FM",
+         "livelink": "https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-6a43cb501dee2ec7433d21ef6acfc461_aac/master.m3u8"
+      },
+      {
+         "id":"2",
+         "logo":"https://i.ibb.co/C21vTtT/fmbagan3.jpg",
+         "channelname":"FM Bagan",
+         "livelink": "https://streamingv2.shoutcast.com/myanmar-bagan-fm"
+      },
+      {
+         "id":"3",
+         "logo":"https://i.ibb.co/rvWJSFh/padamyar.jpg",
+         "channelname":"Padamyar FM",
+         "livelink": "https://s2.radio.co/s969e6c4b7/listen"
+      },
+      {
+         "id":"4",
+         "logo":"https://i1.sndcdn.com/avatars-000275190644-6wa8jt-t500x500.jpg",
+         "channelname":"Teen Radio",
+         "livelink": "https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-1f717f03a450a2b3e96058a2266cbc92_aac/master.m3u8"
+      }
+   ]
+}
