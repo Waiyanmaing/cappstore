@@ -1,50 +1,28 @@
-[
-   {
-      "changeuuid":"1d6a1e44-3dcd-11ea-8dd7-52543be04c81",
-      "stationuuid":"1d6a1e3b-3dcd-11ea-8dd7-52543be04c81",
-      "name":"Channel K",
-      "url":"http://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8",
-      "url_resolved":"http://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8",
-      "image":"http://nettv.live/uploads/allimg/20/1-2001231401150-L.jpg"
-   },
-   {
-      "changeuuid":"1d050fef-0689-11e9-a80b-52543be04c81",
-      "stationuuid":"1d050fd9-0689-11e9-a80b-52543be04c81",
-      "name":"Cherry Radio",
-      "url":"http://159.65.15.33:8000/;",
-      "url_resolved":"http://159.65.15.33:8000/;",
-      "image":"http://sites.cyamyanmar.com/cherryfm/wp-content/uploads/2018/02/AppIcon167.png"
-   },
-   {
-      "changeuuid":"d7002814-8481-11e9-aa30-52543be04c81",
-      "stationuuid":"d7002805-8481-11e9-aa30-52543be04c81",
-      "name":"Mizzima TV",
-      "url":"http://220.158.149.14:9999/live/TV00000000000000000092@HHZT",
-      "url_resolved":"http://220.158.149.28:8180/TV00000000000000000092@HHZT",
-      "image":"http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png"
-   },
-   {
-      "changeuuid":"d7f65507-89b7-11e9-ad01-52543be04c81",
-      "stationuuid":"d7f654fc-89b7-11e9-ad01-52543be04c81",
-      "name":"Myanmar Channel 9 TV",
-      "url":"http://220.158.149.14:9999/live/TV00000000000000000091@HHZT",
-      "url_resolved":"http://220.158.149.28:8180/TV00000000000000000091@HHZT",
-      "image":"https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png"
-   },
-   {
-      "changeuuid":"e90537e8-8480-11e9-aa30-52543be04c81",
-      "stationuuid":"e90537d7-8480-11e9-aa30-52543be04c81",
-      "name":"Myanmar International TV",
-      "url":"http://220.158.149.14:9999/live/TV00000000000000000090@HHZT",
-      "url_resolved":"http://220.158.149.28:8180/TV00000000000000000090@HHZT",
-      "image":"http://www.myanmaritv.com/sites/all/themes/zino_theme/logo-2.png"
-   },
-   {
-      "changeuuid":"991acde7-847e-11e9-aa30-52543be04c81",
-      "stationuuid":"991acdd7-847e-11e9-aa30-52543be04c81",
-      "name":"Myanmar TV",
-      "url":"http://220.158.149.14:9999/live/TV00000000000000000089@HHZT",
-      "url_resolved":"http://220.158.149.28:8180/TV00000000000000000089@HHZT",
-      "image":"http://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/150px-MRTV_new_logo.png"
-   }
-]
+{
+   "radios":[
+      {
+         "id":"1",
+         "logo":"https://i.ibb.co/jbQm7gp/mandalayfm2.jpg",
+         "channelname":"Mandalay FM",
+         "livelink": "https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-6a43cb501dee2ec7433d21ef6acfc461_aac/master.m3u8"
+      },
+      {
+         "id":"2",
+         "logo":"https://i.ibb.co/C21vTtT/fmbagan3.jpg",
+         "channelname":"FM Bagan",
+         "livelink": "https://streamingv2.shoutcast.com/myanmar-bagan-fm"
+      },
+      {
+         "id":"3",
+         "logo":"https://i.ibb.co/rvWJSFh/padamyar.jpg",
+         "channelname":"Padamyar FM",
+         "livelink": "https://s2.radio.co/s969e6c4b7/listen"
+      },
+      {
+         "id":"4",
+         "logo":"https://i1.sndcdn.com/avatars-000275190644-6wa8jt-t500x500.jpg",
+         "channelname":"Teen Radio",
+         "livelink": "https://104275ooyala-lh-audio.akamaized.net/forevergroup-audio-only/1-1f717f03a450a2b3e96058a2266cbc92_aac/master.m3u8"
+      }
+   ]
+}
