@@ -135,5 +135,10 @@
     "title": "MWD Variety",
     "image": "https://lh3.googleusercontent.com/-9kx1Z_0GHw0/X9j0JZueYhI/AAAAAAAAASY/Oc4vlSa38Mct5RFaNuUf4wDtqYl8OAbwQCNcBGAsYHQ/s1600/1608053794411438-0.png",
     "m3u": "http://203.81.84.130/hls/mwd_variety/index.m3u8"
+  },
+  {
+    "title": "&Flix HD",
+    "image": "https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=100",
+    "m3u": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8"
   }
 ]
