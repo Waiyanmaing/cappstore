@@ -1,28 +1,42 @@
 {
-   "applications":[
-      {
-         "id":"1",
-         "applogo":"https://an1.com/uploads/mxplaywe546dfgdf546.png",
-         "appname":" MX Player Pro",
-         "version":"1.26.7",
-         "rating":"4.4",
-         "size" : "15.9 MB",
-         "appauthor":"MX Media",
-         "description": "MX Player Pro - the most powerful video player for android! This program supports all possible video formats and has its own processing kernel, which will make it possible to play video even on weak devices.",
-         "modfeature" : "[Pro Version]",
-         "downloadlink": "https://files.an1.net/mx-player-pro_1.26.7-an1.com.apk"
-      },
-      {
-         "id":"2",
-         "applogo":"https://an1.com/uploads/ps121213red56.png",
-         "appname":"Adobe Photoshop Express Premium",
-         "version":"6.0.590",
-         "rating":"4",
-         "size" : "68.9 MB",
-         "appauthor":"Adobe",
-         "description": "Adobe Photoshop Express Premium - the mobile version of one of the most popular photo editors, while the developers managed to combine in one application the speed of work, not high system requirements and functionality that is not inferior to the dextop version. It is worth noting that this version of the editor has received a number of additional functions that will even more fully allow to use the capabilities of the mobile device, for example all sorts of presets, selections, blanks and so on.",
-         "modfeature" : "[Activate Premium Version]",
-         "downloadlink": "https://files.an1.net/adobe-express-premium_6.0.590-android-1.com.apk"
-      }
-   ]
+  "applications": [{
+      "id": "1",
+      "applogo": "https://an1.com/uploads/mxplaywe546dfgdf546.png",
+      "appname": " MX Player Pro",
+      "version": "1.26.7",
+      "rating": "4.4",
+      "size": "15.9 MB",
+      "appauthor": "MX Media",
+      "description": "MX Player Pro - the most powerful video player for android! This program supports all possible video formats and has its own processing kernel, which will make it possible to play video even on weak devices.",
+      "modfeature": "[Pro Version]",
+      "downloadlink": "https://files.an1.net/mx-player-pro_1.26.7-an1.com.apk"
+    },
+    {
+      "id": "2",
+      "applogo": "https://an1.com/uploads/ps121213red56.png",
+      "appname": "Adobe Photoshop Express Premium",
+      "version": "6.0.590",
+      "rating": "4",
+      "size": "68.9 MB",
+      "appauthor": "Adobe",
+      "description": "Adobe Photoshop Express Premium - the mobile version of one of the most popular photo editors, while the developers managed to combine in one application the speed of work, not high system requirements and functionality that is not inferior to the dextop version. It is worth noting that this version of the editor has received a number of additional functions that will even more fully allow to use the capabilities of the mobile device, for example all sorts of presets, selections, blanks and so on.",
+      "modfeature": "[Activate Premium Version]",
+      "downloadlink": "https://files.an1.net/adobe-express-premium_6.0.590-android-1.com.apk"
+    },
+    {
+      "id": "3",
+      "applogo": "https://v3v9d2b8.rocketcdn.me/wp-content/uploads/2016/05/1a1sa.png",
+      "appname": "Screenshot Capture [Pro]",
+      "version": "5.3.8",
+      "rating": "4",
+      "size": "7.96 MB",
+      "appauthor": "Unknown",
+      "description": "* Simplest way to capture your device’s screen and share with friends. *
+        Developers can use it to take screen shots of their android applications.*Easy to use interface.*Option to save images in png or jpg formats.Newv1 .6 .1– Now,
+      from Settings: –You can set delay before taking screenshot.–You can set notification priority.–Bottom Navigation Menu.–Minor UI enhancements.–Translation fixes.–Crash and bug fixes.
+      ",
+      "modfeature": "[PRO features unlocked]",
+      "downloadlink": "https://antfiles.com/vfm-admin/vfm-downloader.php?q=0&sh=66b85cfab67b10fe14a6f51f5e05f291"
+    }
+  ]
 }
