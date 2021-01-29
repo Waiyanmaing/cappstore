@@ -1,0 +1,12 @@
+{
+   "questions":[
+      {
+         "id":"1",
+         "question":"How Are You ?"
+      },
+      {
+         "id":"2",
+         "question":"Are you single ?"
+      }
+   ]
+}
